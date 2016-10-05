@@ -1,2 +1,2 @@
-puts "hello"
-puts "How are you?"
+puts "hello;"
+puts "How are you?;"
