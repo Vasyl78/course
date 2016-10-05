@@ -1,2 +1,3 @@
 puts "hello"
 puts "How are you?"
+puts "How do you do?"
